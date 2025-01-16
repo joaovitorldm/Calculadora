@@ -1,6 +1,6 @@
-var valorinicial = " "
+var valorinicial = 0
 var expressão = " "
-var valorfinal = " "
+var valorfinal = 0
 
 function um(){
 if(valorinicial == " "){
