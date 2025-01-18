@@ -3,70 +3,70 @@ var expressão = ""
 var valorfinal = ""
 
 function zero(){
-if(valorinicial === ""){
+if(expressão === ""){
 valorinicial += "0"
 }else{
     valorfinal +=  0
 }
 }
 function um(){
-if(valorinicial === ""){
+if(expressão === ""){
 valorinicial += "1"
 }else{
     valorfinal += 1
 }
 }
 function dois(){
-if(valorinicial === ""){
+if(expressão === ""){
 valorinicial += 2
 }else{
     valorfinal += 2
 }
 }
 function três(){
-if(valorinicial === ""){
+if(expressão === ""){
     valorinicial += 3
 }else{
     valorfinal += 3
 }
 }
  function quatro(){
-if(valorinicial === ""){
+if(expressão === ""){
 valorinicial += 4
 }else{
     valorfinal += 4
 }
 }
 function cinco(){
-    if(valorinicial === ""){
+    if(expressão === ""){
     valorinicial += 5
     }else{
         valorfinal += 5
     }
     }
 function seis(){
-if(valorinicial === ""){
+if(expressão === ""){
 valorinicial += 6
 }else{
     valorfinal += 6
 }
 }
 function sete(){
-if(valorinicial === ""){
+if(expressão === ""){
 valorinicial += 7
 }else{
     valorfinal += 7
 }
 }
 function oito(){
-if(valorinicial === ""){
+if(expressão === ""){
 valorinicial += 8
 }else{
     valorfinal += 8
 }
 }
 function nove(){
-if(valorinicial === ""){
+if(expressão === ""){
 valorinicial += 9
 }else{
     valorfinal += 9
